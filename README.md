@@ -39,10 +39,10 @@ and even training simulations.
 <h2>My Top 5 Favorite Games of All Time</h2>
 
 <ol>
-<li><a href="https://www.callofduty.com/blackops2">Call of Duty: Black Ops 2</a></li>
+<li><a href="https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/">Call of Duty: Black Ops 2</a></li>
 <li><a href="https://www.lego.com/en-us/themes/star-wars/games">Lego Star Wars</a></li>
-<li><a href="https://supermariobros.nintendo.com">Super Mario Bros Wii</a></li>
-<li><a href="https://mariokart8.nintendo.com">Mario Kart Wii</a></li>
+<li><a href="https://www.gamestop.com/video-games/wii/products/new-super-mario-bros.-wii---nintendo-wii/10075077.html">Super Mario Bros Wii</a></li>
+<li><a href="https://www.gamestop.com/video-games/wii/products/mario-kart-wii-game-only---nintendo-wii/10074294.html">Mario Kart Wii</a></li>
 <li><a href="https://www.minecraft.net">Minecraft</a></li>
 </ol>
 
