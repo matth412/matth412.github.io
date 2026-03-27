@@ -1,7 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Joey's Website</title>
+
+<style>
+    /* General page styling */
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f6f8;
+        color: #333;
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Main container for layout */
+    .container {
+        width: 80%;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: white;
+        border: 2px solid #ccc;
+        border-radius: 10px;
+    }
+
+    /* Headings */
+    h1 {
+        text-align: center;
+        color: #2c3e50;
+        margin-bottom: 20px;
+    }
+
+    h2 {
+        color: #34495e;
+        border-bottom: 2px solid #ddd;
+        padding-bottom: 5px;
+    }
+
+    h3 {
+        color: #555;
+    }
+
+    /* Image styling */
+    img {
+        display: block;
+        margin: 0 auto 20px auto;
+        width: 200px;
+        border: 3px solid #2c3e50;
+        border-radius: 10px;
+        padding: 5px;
+    }
+
+    /* Paragraph spacing */
+    p {
+        line-height: 1.6;
+        margin-bottom: 15px;
+    }
+
+    /* List styling */
+    ol {
+        padding-left: 20px;
+    }
+
+    li {
+        margin-bottom: 10px;
+    }
+
+    /* Link styling */
+    a {
+        color: #2980b9;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+        color: #1abc9c;
+    }
+</style>
 
 </head>
 
 <body>
+
+<div class="container">
 
 <h1>Joey's Website</h1>
 
@@ -18,7 +99,7 @@ I enjoy learning how games are designed and spending time playing games a little
 <h3>Why I Like Gaming</h3>
 <p>
 Gaming is fun because it combines competition, creativity, and problem solving.
-Many games also have strong communities and teamwork. Having a commutity with shared interests is very important in helping you grow as a person.
+Many games also have strong communities and teamwork. Having a community with shared interests is very important in helping you grow as a person.
 </p>
 
 <h3>My Favorite Types of Games</h3>
@@ -42,6 +123,7 @@ and even training simulations.
 <li><a href="https://www.minecraft.net">Minecraft</a></li>
 </ol>
 
-</body>
+</div>
 
+</body>
 </html>
