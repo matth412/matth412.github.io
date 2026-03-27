@@ -2,43 +2,46 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Joey's Website</title>
+<title>Joey's Gaming Website</title>
 
 <style>
-    /* General page styling */
+    /* Gaming theme background */
     body {
-        font-family: Arial, sans-serif;
-        background-color: #f4f6f8;
-        color: #333;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #0f172a; /* dark blue */
+        color: #e2e8f0; /* light text */
         margin: 0;
         padding: 0;
     }
 
-    /* Main container for layout */
+    /* Main container */
     .container {
         width: 80%;
-        margin: 20px auto;
-        padding: 20px;
-        background-color: white;
-        border: 2px solid #ccc;
-        border-radius: 10px;
+        margin: 30px auto;
+        padding: 25px;
+        background-color: #111827; /* darker panel */
+        border: 2px solid #22c55e; /* neon green */
+        border-radius: 12px;
+        box-shadow: 0 0 15px #22c55e;
     }
 
-    /* Headings */
+    /* Main title */
     h1 {
         text-align: center;
-        color: #2c3e50;
+        color: #22c55e;
+        text-shadow: 0 0 10px #22c55e;
         margin-bottom: 20px;
     }
 
+    /* Section titles */
     h2 {
-        color: #34495e;
-        border-bottom: 2px solid #ddd;
+        color: #38bdf8; /* neon blue */
+        border-bottom: 2px solid #38bdf8;
         padding-bottom: 5px;
     }
 
     h3 {
-        color: #555;
+        color: #a78bfa; /* purple accent */
     }
 
     /* Image styling */
@@ -46,12 +49,13 @@
         display: block;
         margin: 0 auto 20px auto;
         width: 200px;
-        border: 3px solid #2c3e50;
+        border: 3px solid #22c55e;
         border-radius: 10px;
         padding: 5px;
+        box-shadow: 0 0 10px #22c55e;
     }
 
-    /* Paragraph spacing */
+    /* Paragraph styling */
     p {
         line-height: 1.6;
         margin-bottom: 15px;
@@ -66,15 +70,16 @@
         margin-bottom: 10px;
     }
 
-    /* Link styling */
+    /* Links styled like gaming UI */
     a {
-        color: #2980b9;
+        color: #facc15; /* yellow */
         text-decoration: none;
+        font-weight: bold;
     }
 
     a:hover {
-        text-decoration: underline;
-        color: #1abc9c;
+        color: #22c55e;
+        text-shadow: 0 0 8px #22c55e;
     }
 </style>
 
@@ -84,7 +89,7 @@
 
 <div class="container">
 
-<h1>Joey's Website</h1>
+<h1>🎮 Joey's Gaming Website 🎮</h1>
 
 <img src="mi103.jpg" alt="picture of me">
 
