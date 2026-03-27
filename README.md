@@ -2,30 +2,27 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Joey's Website</title>
+<title>Joey Matthews</title>
 
 <style>
-    /* Gaming theme background */
     body {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background-color: #0f172a; /* dark blue */
-        color: #e2e8f0; /* light text */
+        background-color: #0f172a;
+        color: #e2e8f0;
         margin: 0;
         padding: 0;
     }
 
-    /* Main container */
     .container {
         width: 80%;
         margin: 30px auto;
         padding: 25px;
-        background-color: #111827; /* darker panel */
-        border: 2px solid #22c55e; /* neon green */
+        background-color: #111827;
+        border: 2px solid #22c55e;
         border-radius: 12px;
         box-shadow: 0 0 15px #22c55e;
     }
 
-    /* Main title */
     h1 {
         text-align: center;
         color: #22c55e;
@@ -33,18 +30,16 @@
         margin-bottom: 20px;
     }
 
-    /* Section titles */
     h2 {
-        color: #38bdf8; /* neon blue */
+        color: #38bdf8;
         border-bottom: 2px solid #38bdf8;
         padding-bottom: 5px;
     }
 
     h3 {
-        color: #a78bfa; /* purple accent */
+        color: #a78bfa;
     }
 
-    /* Image styling */
     img {
         display: block;
         margin: 0 auto 20px auto;
@@ -55,13 +50,11 @@
         box-shadow: 0 0 10px #22c55e;
     }
 
-    /* Paragraph styling */
     p {
         line-height: 1.6;
         margin-bottom: 15px;
     }
 
-    /* List styling */
     ol {
         padding-left: 20px;
     }
@@ -70,9 +63,8 @@
         margin-bottom: 10px;
     }
 
-    /* Links styled like gaming UI */
     a {
-        color: #facc15; /* yellow */
+        color: #facc15;
         text-decoration: none;
         font-weight: bold;
     }
@@ -89,7 +81,7 @@
 
 <div class="container">
 
-<h1>🎮 Joey's Gaming Website 🎮</h1>
+<h1>Joey Matthews</h1>
 
 <img src="mi103.jpg" alt="picture of me">
 
