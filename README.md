@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Joey's Gaming Website</title>
+<title>Joey's Website</title>
 
 <style>
     /* Gaming theme background */
